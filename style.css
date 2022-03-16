@@ -22,6 +22,7 @@ h1 {
 
 h5 {
   letter-spacing: 3px;
+  color: aliceblue;
 }
 #overlay{
   background-color: rgba(0, 0, 0, 0.1);
