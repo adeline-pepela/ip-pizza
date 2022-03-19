@@ -22,15 +22,17 @@ https://adeline-pepela.github.io/ip-pizza/
 
 * cd ip-pizza
 
-code . or atom . depending on the text editor of your choise.
+* code . or atom . depending on the text editor of your choise.
 
-Technologies Used
-HTML5
-CSS
-Bootstrap
-Javascript
-markdown
-BDD
+## Technologies Used
+
+* [HTML5](https://github.com/topics/html5)
+* [CSS](https://github.com/topics/css3)
+* [Bootstrap](https://github.com/topics/bootstrap)
+* [Javascript](https://github.com/topics/javascript)
+* markdown
+
+## BDD
 Behaviour	Input	Output
 Select pizza flavor	Chiken Tika	Chicken Tika
 Select piza size	large, medium, small	large
@@ -41,6 +43,7 @@ Press add pizza button	pizza flavor,size, crust and toppings	new selection added
 Press Checkout		Your bill is ...
 Press home delivery	Your name, phone number and delivery location	
 press place order		We have recieved your order and it will be delivered to you with your name, place of delivery and amount to be paid.
+
 Known Bugs
 All toppings has the same price regardless of the pizza size
 Contact Information
