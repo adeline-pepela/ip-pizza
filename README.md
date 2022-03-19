@@ -45,11 +45,14 @@ https://adeline-pepela.github.io/ip-pizza/
 | Press home delivery | Your name, phone number and delivery location     |  |
 | press place order| | We have recieved your order and it will be delivered to you with your name, place of delivery and amount to be paid.|
 
-Known Bugs
-All toppings has the same price regardless of the pizza size
-Contact Information
+## Known Bugs
+
+* All toppings has the same price regardless of the pizza size
+
+## Contact Information
+
 If you have any question or contributions that would better this app, please email me at [adelinemakokha@gmail.com]
 
-License
-MIT License:
-Copyright (c) 2022 Adeline Makokha
+## License
+* *MIT License:*
+* Copyright (c) 2022 Adeline Makokha**
