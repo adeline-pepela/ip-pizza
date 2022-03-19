@@ -1,25 +1,26 @@
 
-*Party Time Pizza*
-###Author
+## Party Time Pizza
+### Author
+
 Adeline Makokha
 
-###Version
+### Version
 03.2022/019
 
-Description
+## Description
 This is a web application for Party Time Pizza which is a pizza selling venture, that shows details about the services and diffent pizza they sell, their menu and also allows customers to order online for their preferred pizza depending on size, crust they need and also allows them to input a location which they would love the piza to be delivered to.
 
 
 
-###Live Page
+### Live Page
 https://adeline-pepela.github.io/ip-pizza/
 
-Installation / Setup instruction
-Open Terminal {Ctrl+Alt+T}
+## Installation / Setup instruction
+* Open Terminal {Ctrl+Alt+T}
 
-git clone https://github.com/adeline-pepela/ip-pizza.git
+* git clone ``` https://github.com/adeline-pepela/ip-pizza.git```
 
-cd ip-pizza
+* cd ip-pizza
 
 code . or atom . depending on the text editor of your choise.
 
